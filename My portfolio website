@@ -70,7 +70,7 @@
   <header>
     <h1>Hafiz Muhammad Asif</h1>
     <p>Certified Arabic & Quran Teacher</p>
-    <img src="profile.jpg" alt="Hafiz Muhammad Asif Photo" />
+    <img src="hafiz-muhammad-asif.jpg" alt="Photo of Hafiz Muhammad Asif" />
   </header>
 
   <main>
@@ -111,4 +111,4 @@
   </footer>
 
 </body>
-</html> 
+</html>
